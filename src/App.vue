@@ -50,9 +50,9 @@ export default {
         this.imageSrc = res.data[0].url
       })
 
-      let operation_pos = parseInt(Math.random()*operations.length + 1);
+      let operation_pos = parseInt(Math.random()*operations.length);
       switch(true){
-        case (operation_pos > 38):
+        case (operation_pos > 39):
           request = `http://foaas.com/${operations[operation_pos]}/Dear Reader/CuteKitten`;
           break;
         default:
