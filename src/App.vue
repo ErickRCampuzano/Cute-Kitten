@@ -39,7 +39,7 @@ export default {
                           "ridiculous", "retard", "sake", "shit", "rtfm",
                           "single", "thanks", "that", "this", "too", "tucker",
                           "what", "zayn", "zero", "back", "bday", "bm", "bus",
-                          "chainsaw", "cocksplat", "dalton", "deraat", "equity",
+                          "chainsaw", "cocksplat", "dalton", "deraadt", "equity",
                           "blackadder", "fts", "gfy", "ing", "keep", "king",
                           "linus", "look", "madison", "nugget", "off", "problem",
                           "shakespeare", "shutup", "outside", "think", "thinking",
